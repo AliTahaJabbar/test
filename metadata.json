@@ -1,0 +1,5 @@
+{
+  "name": "Smart Age Services",
+  "description": "An internal portal for Smart Age Services to manage company data including regional offers, network maps, material inventory, and technical column information. Features role-based access for admins, team leaders, and followers.",
+  "requestFramePermissions": []
+}
